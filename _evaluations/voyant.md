@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JSTOR Text Analyzer
+title: Voyant
 description: Here I evaluate Voyant tool.
 ---
 
