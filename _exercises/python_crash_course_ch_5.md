@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Exercises Ch. 5
 description: Select exercises from Python Crash Course
 ---
