@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Natural Language Processing"
-date: "2022-10-24"
+title: "Welcome to Jekyll!"
+date: 2022-08-31 18:21:49 -0400
 categories: jekyll update
 ---
 
