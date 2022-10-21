@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2022-08-31 18:21:49 -0400
+title: "NLP and Voyant"
+date: 2022-10-24 18:21:49 -0400
 categories: jekyll update
 ---
 
