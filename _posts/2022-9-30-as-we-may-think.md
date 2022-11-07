@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "As we may think"
+title: "As We May Think"
 date: 2022-9-30 18:21:49 -0400
 categories: jekyll update
 ---

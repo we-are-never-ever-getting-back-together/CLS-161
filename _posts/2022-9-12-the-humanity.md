@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What are the humanities"
-date: 2022-12-9 18:21:49 -0400
+date: 2022-9-12 18:21:49 -0400
 categories: jekyll update
 ---
 
