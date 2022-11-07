@@ -330,6 +330,8 @@ p.add_layout(box)
 show(p)
 ```
 
+![png](../assets/bokeh5.png)
+
 <div class="bk-root" id="78dbd177-f336-40e4-90a9-22b84ba3212b" data-root-id="4061"></div>
 
 ### Spatial Data: Mapping Target Locations
@@ -383,6 +385,8 @@ p.axis.visible = False
 
 show(p)
 ```
+
+![png](../assets/bokeh6.png)
 
 <div class="bk-root" id="dbf7ce0e-3768-4b91-9366-0ab3fc529b97" data-root-id="4728"></div>
 
