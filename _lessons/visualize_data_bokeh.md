@@ -167,6 +167,8 @@ show(p)
 
 ```
 
+![png](../assets/bokeh1.png)
+
 <div class="bk-root" id="6687126e-90c1-4909-bfb7-9ea883323dec" data-root-id="2195"></div>
 
 ### Stacked Bar Charts and Sub-sampling Data: Types of Munitions Dropped by Country
@@ -240,6 +242,8 @@ p.yaxis.axis_label = 'Kilotons of Munitions Dropped'
 
 show(p)
 ```
+
+![png](../assets/bokeh2.png)
 
 <div class="bk-root" id="d1fdc516-f278-4417-9dc5-561369d565b3" data-root-id="2804"></div>
 
