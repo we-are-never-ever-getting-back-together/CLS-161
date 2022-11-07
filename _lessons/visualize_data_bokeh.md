@@ -211,6 +211,8 @@ p.yaxis.axis_label = 'Kilotons of Munitions'
 show(p)
 ```
 
+![png](../assets/bokeh2.png)
+
 <div class="bk-root" id="c1775dce-e4fc-46ce-af1e-c420ea118230" data-root-id="2468"></div>
 
 ### Time-Series and Annotations: Bombing Operations over Time
@@ -243,7 +245,7 @@ p.yaxis.axis_label = 'Kilotons of Munitions Dropped'
 show(p)
 ```
 
-![png](../assets/bokeh2.png)
+![png](../assets/bokeh3.png)
 
 <div class="bk-root" id="d1fdc516-f278-4417-9dc5-561369d565b3" data-root-id="2804"></div>
 
@@ -275,6 +277,8 @@ p.yaxis.axis_label = 'Kilotons of Munitions Dropped'
 
 show(p)
 ```
+
+![png](../assets/bokeh4.png)
 
 <div class="bk-root" id="4a7f7504-fcc4-4f01-b132-2c9e4ce9df8c" data-root-id="3421"></div>
 
